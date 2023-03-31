@@ -1,0 +1,6 @@
+﻿  intro project.cpp
+C:\Users\Fady\Desktop\Intro semester 1 project\intro project\intro project\intro project.cpp(247,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Fady\Desktop\Intro semester 1 project\intro project\intro project\intro project.cpp(284,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Fady\Desktop\Intro semester 1 project\intro project\intro project\intro project.cpp(77): warning C4715: 'adminMenu': not all control paths return a value
+C:\Users\Fady\Desktop\Intro semester 1 project\intro project\intro project\intro project.cpp(106): warning C4715: 'loginCode': not all control paths return a value
+  intro project.vcxproj -> C:\Users\Fady\Desktop\Intro semester 1 project\intro project\Debug\intro project.exe
